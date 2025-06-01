@@ -4,7 +4,6 @@ Trabajo Practico de Programación Concurrente.
 
 Tecnologías usadas
 
-    Visual Studio Code
     Github
     Java 
     Video 
